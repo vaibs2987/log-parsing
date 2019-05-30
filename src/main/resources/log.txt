@@ -1,0 +1,7 @@
+2019-01-07 14:52:33 Warning data
+2019-01-07 14:52:34 Warning data
+2019-01-07 14:52:35 Warning data
+2019-01-07 14:52:36 Critical data
+2019-01-07 14:52:37 Warning data
+2019-01-07 14:52:38 Warning data
+2019-01-07 14:52:38 Info data

@@ -1,0 +1,4 @@
+log.threshold.limit: 10
+log.threshold.time.limit: 100
+log.file.path: /home/roofandfloor/workspace/log-parsing/src/main/resources/log.txt
+
